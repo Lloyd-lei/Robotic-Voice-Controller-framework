@@ -4,15 +4,15 @@ A voice-controlled robotic arm simulation framework using MuJoCo physics engine 
 
 ## 📹 Demo
 
-> 🎬 **视频演示**: [观看演示视频](demos/voice_control_demo.mp4)
+> 🎬 **Demo Video**: [Watch on YouTube](YOUR_YOUTUBE_LINK_HERE) | [Watch on Bilibili](YOUR_BILIBILI_LINK_HERE)
 
-https://github.com/Lloyd-lei/Robotic-Voice-Controller-framework/assets/demos/voice_control_demo.mp4
+<!-- Upload your demo video to YouTube or Bilibili and replace the links above -->
 
-### 演示内容
-- ✨ 语音控制机械臂移动
-- 🎯 实时逆运动学求解
-- 🔄 流畅的 MuJoCo 物理仿真
-- 🎤 自然语言命令识别
+### Demo Features
+- ✨ Voice-controlled robotic arm movement
+- 🎯 Real-time inverse kinematics solving
+- 🔄 Smooth MuJoCo physics simulation
+- 🎤 Natural language command recognition
 
 ## Features
 
