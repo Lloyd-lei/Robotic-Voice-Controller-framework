@@ -4,30 +4,9 @@ A voice-controlled robotic arm simulation framework using MuJoCo physics engine 
 
 ## 📹 Demo
 
-> 🎬 **Demo Video**: [Watch on YouTube](YOUR_YOUTUBE_LINK_HERE) | [Watch on Bilibili](YOUR_BILIBILI_LINK_HERE)
+> 🎬 **Demo Video**: [Watch on Bilibili](https://bilibili.com/video/BV1UfxpzaE2F/)
 
-<!-- Upload your demo video to YouTube or Bilibili and replace the links above -->
-
-### Demo Features
-- ✨ Voice-controlled robotic arm movement
-- 🎯 Real-time inverse kinematics solving
-- 🔄 Smooth MuJoCo physics simulation
-- 🎤 Natural language command recognition
-
-## Features
-
-- **Voice Control**: Control robot arm movements using natural language voice commands via OpenAI Realtime API
-- **Keyboard Control**: Manual control using keyboard inputs for precise movements
-- **Inverse Kinematics**: Real-time IK solver for accurate arm positioning
-- **MuJoCo Simulation**: High-fidelity physics simulation using MuJoCo
-- **G1 Robot Support**: Full support for Unitree G1 humanoid robot model
-
-##  Capabilities
-
-- Move hand in 6 directions: forward, backward, left, right, up, down
-- Rotate hand around 3 axes: roll, pitch, yaw
-- Real-time position and orientation control
-- Thread-safe concurrent control from multiple input sources
+We are StarbotUSA, a startup robotics company in Santa Barbara. This project is aimed to take AI embedding on the robot. The code here is more of an experimental tryout but you can imagine that robots are going to interact with human beings in a very revolutionary way (Probably we don't need the smart phone to interact with everything very soon). In the future, we will implement this function in ROS2 of the real Unitree G1 robot. Please follow us. If you are interested in robotics and would like to share codes, like AI embedding, ROS2, IV algr, vision perception, locomotion, and manipulation, please contact me lloyd@starbotusa.com. We will be happy to pay or collaborate with you!!!
 
 ## Installation
 
