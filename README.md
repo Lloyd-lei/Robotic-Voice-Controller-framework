@@ -17,7 +17,7 @@ A voice-controlled robotic arm simulation framework using MuJoCo physics engine 
 - Real-time position and orientation control
 - Thread-safe concurrent control from multiple input sources
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 
