@@ -2,7 +2,7 @@
 
 A voice-controlled robotic arm simulation framework using MuJoCo physics engine and OpenAI's Realtime API.
 
-## 🌟 Features
+## Features
 
 - **Voice Control**: Control robot arm movements using natural language voice commands via OpenAI Realtime API
 - **Keyboard Control**: Manual control using keyboard inputs for precise movements
@@ -10,7 +10,7 @@ A voice-controlled robotic arm simulation framework using MuJoCo physics engine 
 - **MuJoCo Simulation**: High-fidelity physics simulation using MuJoCo
 - **G1 Robot Support**: Full support for Unitree G1 humanoid robot model
 
-## 🎯 Capabilities
+##  Capabilities
 
 - Move hand in 6 directions: forward, backward, left, right, up, down
 - Rotate hand around 3 axes: roll, pitch, yaw
@@ -48,7 +48,7 @@ For visualization:
 pip install mujoco-viewer  # If built-in viewer not available
 ```
 
-## 🚀 Usage
+##  Usage
 
 ### Basic Usage
 
@@ -119,29 +119,18 @@ python test_ik.py
 - `rotation_step`: 0.05 (keyboard)
 - `voice_rotation_step`: 0.2 (voice)
 
-## 📝 Requirements
+##  Requirements
 
 - Python 3.8+
 - MuJoCo 2.3+
 - OpenAI API key (for voice control)
 - Audio input device (for voice control)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## 📄 License
+##  License
 
 This project includes components from Unitree Robotics. Please refer to individual component licenses.
-
-## 🙏 Acknowledgments
-
-- MuJoCo Physics Engine
-- OpenAI Realtime API
-- Unitree Robotics G1 Model
-- Pinocchio IK Library
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue on GitHub.
 
