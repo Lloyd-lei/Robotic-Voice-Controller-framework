@@ -2,6 +2,18 @@
 
 A voice-controlled robotic arm simulation framework using MuJoCo physics engine and OpenAI's Realtime API.
 
+## 📹 Demo
+
+> 🎬 **视频演示**: [观看演示视频](demos/voice_control_demo.mp4)
+
+https://github.com/Lloyd-lei/Robotic-Voice-Controller-framework/assets/demos/voice_control_demo.mp4
+
+### 演示内容
+- ✨ 语音控制机械臂移动
+- 🎯 实时逆运动学求解
+- 🔄 流畅的 MuJoCo 物理仿真
+- 🎤 自然语言命令识别
+
 ## Features
 
 - **Voice Control**: Control robot arm movements using natural language voice commands via OpenAI Realtime API
