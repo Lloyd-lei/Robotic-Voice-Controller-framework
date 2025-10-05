@@ -5,6 +5,8 @@ A voice-controlled robotic arm simulation framework using MuJoCo physics engine 
 ## 📹 Demo
 
 > 🎬 **Demo Video**: [Watch on Bilibili](https://bilibili.com/video/BV1UfxpzaE2F/)
+> 
+> 🔥 **Newest Demo!!! Move 6+ kg box!!!**: [Watch on Bilibili](https://www.bilibili.com/video/BV1rsxTzzEYi/?spm_id_from=333.1387.homepage.video_card.click&vd_source=42914a2a934b4669660cb3fd880181b7)
 
 We are StarbotUSA, a startup robotics company in Santa Barbara. This project is aimed to take AI embedding on the robot. The code here is more of an experimental tryout but you can imagine that robots are going to interact with human beings in a very revolutionary way (Probably we don't need the smart phone to interact with everything very soon). In the future, we will implement this function in ROS2 of the real Unitree G1 robot. Please follow us. If you are interested in robotics and would like to share codes, like AI embedding, ROS2, IV algr, vision perception, locomotion, and manipulation, please contact me lloyd@starbotusa.com. We will be happy to pay or collaborate with you!!!
 
